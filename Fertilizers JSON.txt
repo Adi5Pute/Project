@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Vermicompost(1kg)",
+        "price": 150,
+        "image": "Vermicompost.png"
+    },
+    {
+        "id": 2,
+        "name": "NPK Fertilizer(500g)",
+        "price": 200,
+        "image": "NPK.png"
+    },
+    {
+        "id": 3,
+        "name": "Micronutrient Fertilizer(1kg)",
+        "price": 650,
+        "image": "Micronutrient Fertilizer.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "NPK Liquid Fertilizer",
+        "price": 350,
+        "image": "Liquid NPK.png"
+    },
+    {
+        "id": 5,
+        "name": "Poultry Fertilizer 5 Packs(1kg)",
+        "price": 700,
+        "image": "Poultry Manure.png"
+    },
+    {
+        "id": 6,
+        "name": "Cow Manure(2kg)",
+        "price": 300,
+        "image": "Cow Manure.png"
+    }
+]

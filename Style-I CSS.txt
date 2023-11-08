@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Cedarville+Cursive&family=Hind+Siliguri&family=Lato:wght@300&family=Merriweather&family=PT+Serif:ital@1&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(25, 175, 17);
+}
+
+.logo{
+    background-image: url('https://media.istockphoto.com/id/1284379612/photo/indian-farmer-spreading-fertilizer-in-the-green-banana-field.webp?b=1&s=170667a&w=0&k=20&c=mvNit1p2oeb2DDK6Bf-zx-c9Et8mmQFtLRGFmsoYeVk=');
+    background-repeat: space;
+}
+
+.box{
+    background-color: white;
+    position: relative;
+    top: 50px;
+    left: 1340px;
+}
+
+nav ul{
+    background-color: rgb(7, 86, 7);
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul li{
+    list-style: none;
+}
+
+nav ul li a{
+    color: white;
+    padding: 0 25px;
+    text-decoration: none;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'PT Serif', serif;
+}
+
+nav ul li a:hover{
+    font-weight: bolder ;
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search input{
+    width: 600px;
+    height: 32px;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 0px 12px;
+}
+
+.search button{
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'PT Serif', serif;
+}
+
+.search button:hover{
+    font-weight: bolder;
+}
+
+.slider{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.slider marquee{
+    animation: scrolling 10s linear infinite;
+}
+
+.slider img{
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.card{
+    max-width: 88vw;
+    margin: 12px auto;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+}
+
+.card-item{
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px 15px;
+}
+
+.card h2{
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'PT Serif', serif;
+}
+
+.space{
+    background-color: whitesmoke;
+    min-height: calc(300vh);
+}
+
+footer {
+    background-color: rgb(25, 175, 17);
+    color: white;
+    height: 15vh;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'PT Serif', serif;
+}
+
+.card-item{
+    border: 2px solid black;
+    border-radius: 5px;
+}

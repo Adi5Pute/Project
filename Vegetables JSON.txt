@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Cauliflower(400g-600g)",
+        "price": 35,
+        "image": "Cauliflower.png"
+    },
+    {
+        "id": 2,
+        "name": "Okra(Lady Finger)",
+        "price": 15,
+        "image": "Okra.png"
+    },
+    {
+        "id": 3,
+        "name": "Onion(1kg)",
+        "price": 65,
+        "image": "Onion.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Potato(1kg)",
+        "price": 35,
+        "image": "Potato.png"
+    },
+    {
+        "id": 5,
+        "name": "Carrot(500g)",
+        "price": 45,
+        "image": "Carrot.png"
+    },
+    {
+        "id": 6,
+        "name": "Capsicum(1kg)",
+        "price": 65,
+        "image": "Capsicum.png"
+    }
+]

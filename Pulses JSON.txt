@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Cow Peas-Chowli(500g)",
+        "price": 125,
+        "image": "Cow Pea.png"
+    },
+    {
+        "id": 2,
+        "name": "Toor Dal(1kg)",
+        "price": 190,
+        "image": "Dal.png"
+    },
+    {
+        "id": 3,
+        "name": "Black Beans(1kg)",
+        "price": 380,
+        "image": "Black Beans.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Masoor Dal(1kg)",
+        "price": 140,
+        "image": "Masoor.png"
+    },
+    {
+        "id": 5,
+        "name": "Chana Dal(950g)",
+        "price": 195,
+        "image": "Chana.png"
+    },
+    {
+        "id": 6,
+        "name": "Moong Dal(500g)",
+        "price": 170,
+        "image": "Moong.png"
+    }
+]

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FarmiGroww</title>
+    <link rel="stylesheet" href="Style-I.css">
+    <link rel="stylesheet" href="Utils.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico"
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <center><img src="Farmi.png" height="250px" width="250px" alt=""></center>
+            </div>
+            <ul>
+                <li><a href="Home.html">HOME</a></li>
+                <li><a href="About.html">ABOUT US</a></li>
+                <li><a href="Product.html">OUR PRODUCTS</a></li>
+                <li><a href="Settings.html">SETTINGS</a></li>
+                <li><a href="Contact.html">CONTACT US</a></li>
+            </ul>
+            <div class="search">
+                <input type="text" name="" id="" placeholder="Search Here">
+                <button class="btn">Search</button>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="space">
+            <div class="slider">
+                <marquee>
+                <img src="https://www.healthifyme.com/blog/wp-content/uploads/2022/02/shutterstock_1917172118.jpeg" width="255px" height="225px" alt="">
+                <img src="https://previews.123rf.com/images/serezniy/serezniy1110/serezniy111000083/10754080-fresh-vegetables-in-basket-on-wooden-table-on-green-background.jpg" height="225px" width="255px" alt="">
+                <img src="https://pibindia.files.wordpress.com/2016/12/istock_000020447381_medium.jpg?w=1400" height="225px" width="255px" alt="">
+                <img src="https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2023/01/25104608/organic-farm-1.jpg" height="225px" width="255px" alt="">
+                <img src="https://twobrothersindiashop.com/cdn/shop/articles/photo-1530836369250-ef72a3f5cda8.jpeg?v=1643868516" height="225px" width="255px" alt="">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/India_Farming.jpg" height="225px" width="255px" alt="">
+                <img src="https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/assets/implements/mf-fixed-disc-ploughs/features/mf-disc-ploughs-fd-1400x933.jpg" height="225px" width="255px" alt="">
+                <img src="https://www.mechanicalpower.net/wp-content/uploads/2023/05/Combine-Harvester.jpg" height="225px" width="255px" alt="">
+            </marquee>
+            </div>
+            <div class="card">
+                <h2 class="my-2">Farmer <u>HIGHLIGHTED PRODUCTS</u></h2>
+                <div class="cards"></div>
+                <div class="card-item">
+                    <img src="https://5.imimg.com/data5/SELLER/Default/2021/12/QK/BB/XT/24933866/sp-n2-500x500.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Sprinkler</p>
+                    <p class="text-center my-1">Upto 20% Off</p>
+                    <p class="text-center my-1">Rs.499/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://novo3ds.in/wp-content/uploads/2022/04/AG125_Tube_1.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Drip Pipe</p>
+                    <p class="text-center my-1">Upto 15% Off</p>
+                    <p class="text-center my-1">Rs.1,999/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://5.imimg.com/data5/XS/ER/ES/SELLER-7285723/irrigation-pump-set.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Irrigation Pump</p>
+                    <p class="text-center my-1">Flat 5% Off</p>
+                    <p class="text-center my-1">Rs.5,999/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://www.motopompe-irrigation.com/wp-content/uploads/2022/12/EFP-30-2_photo-removebg-preview.png"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Irrigation Motors</p>
+                    <p class="text-center my-1">Flat 10% Off</p>
+                    <p class="text-center my-1">Rs.2,999/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://m.media-amazon.com/images/I/81GPz-FGZML._SX466_.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">NPK Fertilizer 20 20 20</p>
+                    <p class="text-center my-1">For all Garden Plants-900g</p>
+                    <p class="text-center my-1">Rs.299/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://m.media-amazon.com/images/I/41wNcA0u2mL._SY300_SX300_QL70_FMwebp_.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Farm Tiller</p>
+                    <p class="text-center my-1">Flat Rs.1,999 Off</p>
+                    <p class="text-center my-1">Rs.31,999/-</p>
+                </div>
+            </div>
+            <div class="card">
+                <h2 class="my-2">Customer <u>HIGHLIGHTED FRUITS</u></h2>
+                <div class="cards"></div>
+                <div class="card-item">
+                    <img src="https://www.westfaliafruit.com/wp-content/uploads/2019/01/Oranges-300x300.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Orange Mandarin</p>
+                    <p class="text-center my-1">12 Nos</p>
+                    <p class="text-center my-1">Rs.199/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://5.imimg.com/data5/AK/RA/MY-68428614/apple.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Apples</p>
+                    <p class="text-center my-1">1 kg</p>
+                    <p class="text-center my-1">Rs.199/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://www.narayanahealth.org/blog/wp-content/uploads/2022/06/Custurd-Apple-Blog-Image.jpeg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Custard Apples</p>
+                    <p class="text-center my-1">500g</p>
+                    <p class="text-center my-1">Rs.70/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://m.media-amazon.com/images/I/51ebZJ+DR4L._AC_UF1000,1000_QL80_.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Bananas</p>
+                    <p class="text-center my-1">12 Nos</p>
+                    <p class="text-center my-1">Rs.25/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://www.jiomart.com/images/product/original/590001270/pears-green-imported-3-pcs-pack-product-images-o590001270-p590040932-0-202203170454.jpg?im=Resize=(420,420)"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Pear</p>
+                    <p class="text-center my-1">4 Nos</p>
+                    <p class="text-center my-1">Rs.199/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://m.media-amazon.com/images/I/611a1wD9ZGL._AC_UF1000,1000_QL80_.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Pomegranate</p>
+                    <p class="text-center my-1">4 Nos</p>
+                    <p class="text-center my-1">Rs.179/-</p>
+                </div>
+            </div>
+            <div class="card">
+                <h2 class="my-2">Customer <u>HIGHLIGHTED VEGGIES</u></h2>
+                <div class="cards"></div>
+                <div class="card-item">
+                    <img src="https://m.media-amazon.com/images/I/51T3025eGcL._AC_UF1000,1000_QL80_.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Spinach</p>
+                    <p class="text-center my-1">Rs.25</p>
+                    <p class="text-center my-1">250 gm</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://seed2plant.in/cdn/shop/products/carrotseeds.jpg?v=1604032858"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Carrot</p>
+                    <p class="text-center my-1">Rs.30</p>
+                    <p class="text-center my-1">500 gm</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://chennai.gourmetgarden.in/cdn/shop/products/brinjal_1_-Copy_300x.jpg?v=1634493974"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Brinjal(Egg Plant)</p>
+                    <p class="text-center my-1">Rs.65</p>
+                    <p class="text-center my-1">1 kg</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://m.media-amazon.com/images/I/515RL7gJiaL._AC_UF1000,1000_QL80_.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Lady Finger(Bhendi)</p>
+                    <p class="text-center my-1">Rs.10</p>
+                    <p class="text-center my-1">250 gm</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://m.media-amazon.com/images/I/313dtY-LOEL._AC_UF1000,1000_QL80_.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Potato(Organic)</p>
+                    <p class="text-center my-1">Rs.35</p>
+                    <p class="text-center my-1">1 kg</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://www.freshaisle.com/cdn/shop/products/fresh-lettuce-iceberg-1-pc-500-850-gm-exotic-vegetables-239.jpg?v=1681625564"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Lettuce</p>
+                    <p class="text-center my-1">Rs.30</p>
+                    <p class="text-center my-1">1 Nos.</p>
+                </div>
+            </div>
+            <div class="card">
+                <h2 class="my-2">Given Below Are Some Of Our <u>HIGHLIGHTED PRODUCTS</u></h2>
+                <div class="cards"></div>
+                <div class="card-item">
+                    <img src="https://5.imimg.com/data5/SELLER/Default/2021/12/QK/BB/XT/24933866/sp-n2-500x500.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Sprinkler</p>
+                    <p class="text-center my-1">Upto 20% Off</p>
+                    <p class="text-center my-1">Rs.499/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://novo3ds.in/wp-content/uploads/2022/04/AG125_Tube_1.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Drip Pipe</p>
+                    <p class="text-center my-1">Upto 15% Off</p>
+                    <p class="text-center my-1">Rs.1,999/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://5.imimg.com/data5/XS/ER/ES/SELLER-7285723/irrigation-pump-set.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Irrigation Pump</p>
+                    <p class="text-center my-1">Flat 5% Off</p>
+                    <p class="text-center my-1">Rs.5,999/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://www.motopompe-irrigation.com/wp-content/uploads/2022/12/EFP-30-2_photo-removebg-preview.png"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Irrigation Motors</p>
+                    <p class="text-center my-1">Flat 10% Off</p>
+                    <p class="text-center my-1">Rs.2,999/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://m.media-amazon.com/images/I/81GPz-FGZML._SX466_.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">NPK Fertilizer 20 20 20</p>
+                    <p class="text-center my-1">For all Garden Plants-900g</p>
+                    <p class="text-center my-1">Rs.299/-</p>
+                </div>
+                <div class="card-item">
+                    <img src="https://m.media-amazon.com/images/I/41wNcA0u2mL._SY300_SX300_QL70_FMwebp_.jpg"
+                        width="160px" height="160px">
+                    <div class="lines"></div>
+                    <p class="text-center my-1">Farm Tiller</p>
+                    <p class="text-center my-1">Flat Rs.1,999 Off</p>
+                    <p class="text-center my-1">Rs.31,999/-</p>
+                </div>
+            </div>
+        </div>
+        </div>
+    </main>
+</body>
+<footer class="flex-all-center">
+    <a href="https://facebook.com/"><i class="fa-brands fa-facebook"></i></a>
+            <a href="https://twitter.com/"><i class="fa-brands fa-x-twitter"></i></a>
+            <a href="https://linked-in.com/"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://youtube.com/"><i class="fa-brands fa-youtube"></i></a>
+            <a href="https://instagram.com/"><i class="fa-brands fa-instagram"></i></a>
+            <hr>
+    <p>Copyright &copy;Farmer.com</p>
+</footer>
+
+</html>

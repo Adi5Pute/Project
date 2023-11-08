@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="Contact.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Connect With Us</h1>
+        <p> We're thrilled that you've stopped by and we're here to make it as easy as possible for you to connect with us. Whether you have questions, feedback, or simply want to say hello, this is the place to do it. Our team is eager to hear from you and       assist in any way we can. Feel free to reach out through the provided contact form, give us a call, or send us an email. We value your input and look forward to engaging in a meaningful conversation with you. Your inquiries are our top priority, and we're dedicated to ensuring your experience with us is exceptional. So, go ahead, don't be shy let's start the conversation!</p>
+        <div class="contact-box">
+            <div class="contact-left">
+                <h3>Send Your Request</h3>
+                <form>
+                    <div class="input-row">
+                        <div class="input-group">
+                            <label>Name</label>
+                            <input type="text" placeholder="Enter Your Name Here">
+                        </div>
+                        <div class="input-group">
+                            <label>Phone</label>
+                            <input type="text" placeholder="Phone Number">
+                        </div>
+                    </div>
+                    <div class="input-row">
+                        <div class="input-group">
+                            <label>E-Mail</label>
+                            <input type="text" placeholder="abc@gmail.com">
+                        </div>
+                        <div class="input-group">
+                            <label>Subject</label>
+                            <input type="text" placeholder="Enter Subject">
+                        </div>
+                    </div>
+                    <label>Message</label>
+                    <textarea rows="5" placeholder="Enter Your Suggestions Here"></textarea>
+                    <button type="submit">Send</button>
+                </form>
+            </div>
+            <div class="contact-right">
+                <h3>Reach Us</h3>
+                <table>
+                    <tr>
+                        <td>E-Mail:</td>
+                        <td>contactus@gmail.com</td>
+                    </tr>
+                    <tr>
+                        <td>Phone:</td>
+                        <td>+1 012 345 6789</td>
+                    </tr>
+                    <tr>
+                        <td>Address:</td>
+                        <td>#212, Ground Floor, 9th Cross <br>
+                            Some Layout, Some Road, Fort <br>
+                            Mumbai-123 456
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

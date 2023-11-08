@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Cedarville+Cursive&family=Hind+Siliguri&family=Lato:wght@300&family=Merriweather&family=PT+Serif:ital@1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('https://www.theindiaforum.in/sites/default/files/field/image/2022/06/21/ramkumar-radhakrishnan-wikimedia-1622193304-1622193304.jpeg');
+    font-size: 14px;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'PT Serif', serif;
+}
+
+.container{
+    width: 80%;
+    margin: 50px auto;
+}
+
+.contact-box{
+    display: flex;
+    background: #fff;
+}
+
+.contact-left{
+    flex-basis: 60%;
+    padding: 40px 60px;
+}
+
+.contact-right{
+    flex-basis: 40%;
+    padding: 40px;
+    background: green;
+    color: #fff;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+.container p{
+    margin-bottom: 40px;
+}
+
+.input-row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.input-group{
+    flex-basis: 45%;
+}
+
+input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    padding-bottom: 5px;
+}
+
+textarea{
+    width: 100%;
+    border: 1px solid #ccc;
+    outline: none;
+    padding: 10px;
+}
+
+label{
+    margin-bottom: 5px;
+    display: block;
+    color: green;
+}
+
+button{
+    background: green;
+    width: 100px;
+    border: 2px solid white;
+    outline: none;
+    color: white;
+    height: 35px;
+    border-radius: 30px;
+    margin-top: 20px;
+    box-shadow: 0px 5px 15px 0px rgba(28,0,181,0.3);
+}
+
+form{
+    margin-top: 25px;
+}
+
+tr td:first-child{
+    padding-right: 20px;
+}
+
+tr td{
+    padding-top: 20px;
+}

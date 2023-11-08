@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Yellow Tarpaulin Tadpatri",
+        "price": 1430,
+        "image": "Tadpatri.png"
+    },
+    {
+        "id": 2,
+        "name": "Irrigation Motor",
+        "price": 6700,
+        "image": "Motor.png"
+    },
+    {
+        "id": 3,
+        "name": "Wood Cutting Multipurpose Axe",
+        "price": 700,
+        "image": "Axe.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Drip Pipe 300M",
+        "price": 2200,
+        "image": "Drip.png"
+    },
+    {
+        "id": 5,
+        "name": "Farm Tiller",
+        "price": 40000,
+        "image": "Tiller.png"
+    },
+    {
+        "id": 6,
+        "name": "Irrigation Pump(2HP)",
+        "price": 21000,
+        "image": "Pump.png"
+    }
+]

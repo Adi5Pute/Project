@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Farmi Groww</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <style>
+        .myDIV0 ul {
+                    list-style-type: none;
+                    margin: 0;
+                    padding: 0;
+                    overflow: hidden;
+                    background-color: #333333;
+        }
+        .myDIV0 li {
+                    float: left;
+        }
+        .myDIV0 li a {
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    padding: 20px;
+                    text-decoration: none;
+        }
+        .myDIV0 li a:hover {
+                    background-color: #111111;
+        }   
+        body {
+            background-image: url('https://www.theindiaforum.in/sites/default/files/field/image/2022/06/21/ramkumar-radhakrishnan-wikimedia-1622193304-1622193304.jpeg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;    
+        }
+        .myDIV1 {
+            background-color: white;
+            color: black;
+            text-align: center;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: large;
+            padding: 100px;
+        }
+        .DIVlist li {
+            float: left;
+        }
+        .DIVlist ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333333;
+        }
+        .DIVlist li a {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            text-decoration: none;
+        }
+        .DIVlist li  a:hover{
+            background-color: #111111;
+        }
+        *, *:before, *:after {
+          box-sizing: inherit;
+        }
+        .title {
+            color: grey;
+        }
+        .column {
+          float: left;
+          width: 30%;
+          margin-bottom: 16px;
+          padding: 0 8px;
+        }
+
+        .card {
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          margin: 8px;
+        }
+        .container {
+          padding: 0 16px;
+        }
+
+        .container::after, .myDIV1::after {
+          content: "";
+          clear: both;
+          display: table;
+        }
+        
+        @media screen and (max-width: 650px) {
+          .column {
+            width: 100%;
+            display: block;
+          }
+        }
+        .hover-underline-animation {
+          display: inline-block;
+          position: relative;
+          color: white;
+        }
+        .hover-underline-animation:after {
+          content: '';
+          position: absolute;
+          width: 100%;
+          transform: scaleX(0);
+          height: 2px;
+          bottom: 0;
+          left: 0;
+          background-color: white;
+          transform-origin: bottom right;
+          transition: transform 0.25s ease-out;
+        }
+
+        .hover-underline-animation:hover:after {
+          transform: scaleX(1);
+          transform-origin: bottom left;
+        }
+    </style>
+</head>
+<body>
+    <div class="myDIV0">
+        <ul>
+            <li ><a href="#home"><p class="hover-underline-animation">Home</p></a></li>
+            <li ><a href="#news"><p class="hover-underline-animation">News</p></a></li>
+            <li ><a href="#contact"><p class="hover-underline-animation">Contact</p></a></li>
+            <li ><a href="http://127.0.0.1:5500/About%20Us.html"><p class="hover-underline-animation">About</p></a></li>
+        </ul>    
+    </div>
+    
+    <h1 style=" text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(228, 149, 38);
+    padding: 50px ;
+    color:white;
+    font-size: 50px;">About Us</h1>
+    <div class="DIVlist">    
+        <ul style="list-style-type:none">
+            <li ><a href="#moto"><p class="hover-underline-animation">Motive</p></a></li>
+            <li ><a href="#whyfarmigroww"><p class="hover-underline-animation">Why choose us ?</p></a></li>
+            <li ><a href="#joinus"><p class="hover-underline-animation">Join Us</p></a></li>
+            <li ><a href="#ourteam"><p class="hover-underline-animation">Our Team</p></a></li>
+            <li ><a href="#getintouch"><p class="hover-underline-animation">Get In Touch</p></a></li>
+        </ul>  
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="myDIV1">
+        <h2 id="moto">Our Motive</h2>
+        <img src="handshake_icon.jpg" alt="together" style="width: 250px;height: 200px;">
+        <pre>
+            At Farmi Groww , we're on a mission to empower farmers and revolutionize the way agriculture works. 
+            Our commitment to sustainable farming, technological innovation, and farmer prosperity drives everything we do.
+        </pre>
+    </div>              
+    <br>
+    <br>
+    <br>
+    <div class="myDIV1">
+    <h2 id="whyfarmigroww">Why Farmi Groww ?</h2>
+    <img src="Thinking2.png" alt="together" style="width:150px;height:150px;">
+    <br>
+    <br>
+    <br>
+    <br>
+        <div class="column">
+            <div class="card">
+            <img src="Empower image.jpg" alt="Empowering Farmers" style="width: 200px;height: 150px;">     
+                <div class="container">
+                    <p class="title">Empowering Farmers</p>
+                    <p>
+                         We believe in the power of knowledge and technology to improve farming practices. 
+                         Our app equips farmers with the tools and resources they need to succeed in today's ever-changing agricultural landscape.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="column">
+            <div class="card">
+            <img src="Sustainable Agriculture.jpg" alt="Sustainable Agriculture" style="width: 200px;height: 150px;">     
+                <div class="container">
+                    <p class="title">Sustainable Agriculture</p>
+                    <p>
+                        We're committed to sustainable farming practices that protect the environment and ensure a brighter future for generations to come. 
+                        Our app promotes eco-friendly farming techniques and responsible resource management.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="column">
+            <div class="card">
+            <img src="Best Quality Products.jpg" alt="Quality Products" style="width: 200px;height: 200px;">     
+                <div class="container">
+                    <p class="title">Quality Products &</p>
+                    <p>
+                        We've curated a marketplace that offers a wide range of high-quality agricultural products, from seeds and fertilizers to machinery and tools. 
+                    </p>
+                </div>
+            </div>
+        </div>
+         <div class="column">
+            <div class="card">
+            <img src="Fair Price.png" alt="Fair Price" style="width: 220px;height: 220px;">     
+                <div class="container">
+                    <p class="title">Fair Prices</p>
+                    <p> 
+                        Our commitment to fair pricing ensures that farmers get the best value for their hard-earned money.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="column">
+            <div class="card">
+            <img src="Support.jpg" alt="we area community" style="width: 150px;height: 150px;">     
+                <div class="container">
+                    <p class="title">Supporting Rural Communities</p>
+                    <p> 
+                        Supporting Rural Communities Farmi Groww is more than just a business; we're a community.
+                        We actively support local farmers and rural communities, creating opportunities for growth and development.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>    
+    <br>
+    <br>
+    <br>
+    <div class="myDIV1">
+        <h2 id="joinus">Join Us on this journey</h2>
+        <img src="join us.png" alt="join us" style="width: 150px;height: 150px;">
+        <pre>
+            We invite you to join us on this exciting journey toward a more sustainable and prosperous future for 
+            farming. Whether you're a seasoned farmer or just starting, Farmi Groww is here to support you every step of the way.
+        </pre>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="myDIV1">
+        <h2 id="ourteam">Meet Our Team</h2>
+        <img src="Our Team.jpg" alt="Our Team" style="width: 250px;height: 250px;">
+        <pre>
+            Our team is made up of dedicated professionals who share a deep passion for agriculture and technology. 
+            We're farmers, engineers, and innovators united by a common goal: to make farming more efficient, sustainable, and rewarding.
+        </pre>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="myDIV1">
+        <h2 id="getintouch">Get in Touch with Us</h2>
+        <img src="Contact Us.png" alt="Get in Touch" style="width: 250px;height: 250px;">
+        <pre>
+            Have questions or feedback? We'd love to hear from you! 
+            Reach out to us at [Contact Information] or connect with us on social media [Link to Social Media Profiles].
+        </pre>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="myDIV1">
+        <img src="Happy.jpg" alt="Thank You" style="width: 250px;height: 250px;">
+        <pre>
+            Thank you for choosing Farmi Groww. Together, we're cultivating a brighter future for farming.
+        </pre>
+    </div>
+</body>
+</html>

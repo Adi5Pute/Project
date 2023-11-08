@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+    <link rel="stylesheet" href="Product.css">
+    <link rel="stylesheet" href="Vegetables.html">
+</head>
+
+<body>
+    <div class="section">
+        <div class="cards">
+            <div class="products">
+                <h1>PRODUCT RANGE</h1>
+            </div>
+            <div class="card">
+                <div class="image-section">
+                    <img src="Vegetables.png">
+                </div>
+                <div class="description">
+                    <h1>Vegetables</h1>
+                </div>
+                <div class="button-group">
+                    <a href="Vegetables.html" class="buy">Buy</a>
+                </div>
+                <div class="star-icons">
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star-half-alt"></i></a>
+                    <a href=""><i class="far fa-star"></i></a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="image-section">
+                    <img src="Fruits.png">
+                </div>
+                <div class="description">
+                    <h1>Fresh Fruits</h1>
+                </div>
+                <div class="button-group">
+                    <a href="Fruits.html" class="buy">Buy</a>
+                </div>
+                <div class="star-icons">
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star-half-alt"></i></a>
+                    <a href=""><i class="far fa-star"></i></a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="image-section">
+                    <img src="Pulses.png">
+                </div>
+                <div class="description">
+                    <h1>Pulses</h1>
+                </div>
+                <div class="button-group">
+                    <a href="Pulses.html" class="buy">Buy</a>
+                </div>
+                <div class="star-icons">
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star-half-alt"></i></a>
+                    <a href=""><i class="far fa-star"></i></a>
+                </div>
+            </div>
+            <br>
+            <div class="card">
+                <div class="image-section">
+                    <img src="Equipments.png">
+                </div>
+                <div class="description">
+                    <h1>Farming Equipments</h1>
+                </div>
+                <div class="button-group">
+                    <a href="Equipments.html" class="buy">Buy</a>
+                </div>
+                <div class="star-icons">
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star-half-alt"></i></a>
+                    <a href=""><i class="far fa-star"></i></a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="image-section">
+                    <img src="Fertilizers.png">
+                </div>
+                <div class="description">
+                    <h1>Fertilizers/Insectisides</h1>
+                </div>
+                <div class="button-group">
+                    <a href="Fertilizer.html" class="buy">Buy</a>
+                </div>
+                <div class="star-icons">
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star-half-alt"></i></a>
+                    <a href=""><i class="far fa-star"></i></a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="image-section">
+                    <img src="Seeds.png">
+                </div>
+                <div class="description">
+                    <h1>Seeds</h1>
+                </div>
+                <div class="button-group">
+                    <a href="Seeds.html" class="buy">Buy</a>
+                </div>
+                <div class="star-icons">
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star"></i></a>
+                    <a href=""><i class="fas fa-star-half-alt"></i></a>
+                    <a href=""><i class="far fa-star"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

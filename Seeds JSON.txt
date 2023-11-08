@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Groundnut Seeds(1kg)",
+        "price": 450,
+        "image": "Groundnut.png"
+    },
+    {
+        "id": 2,
+        "name": "Chilli Seeds(150/packet)",
+        "price": 110,
+        "image": "Chilli.png"
+    },
+    {
+        "id": 3,
+        "name": "Soyabean Seeds(1kg)",
+        "price": 190,
+        "image": "Soyabean.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Maize Seeds(1kg)",
+        "price": 150,
+        "image": "Maize.png"
+    },
+    {
+        "id": 5,
+        "name": "Wheat Seeds(250g)",
+        "price": 170,
+        "image": "Wheat.png"
+    },
+    {
+        "id": 6,
+        "name": "Onion Seeds(2000/packet)",
+        "price": 180,
+        "image": "Onion Seeds.png"
+    }
+]
